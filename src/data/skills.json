@@ -5,53 +5,88 @@
     "category": "Programming Languages"
   },
   {
-    "title": "Java",
-    "imageSrc": "skills/java.png",
-    "category": "Programming Languages"
-  },
-  {
     "title": "C++",
     "imageSrc": "skills/cpp.png",
     "category": "Programming Languages"
   },
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png",
-    "category": "Frontend Development"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png",
-    "category": "Frontend Development"
+    "title": "Java",
+    "imageSrc": "skills/java.png",
+    "category": "Programming Languages"
   },
   {
     "title": "JavaScript",
     "imageSrc": "skills/javascript.png",
-    "category": "Frontend Development"
+    "category": "Programming Languages"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png",
-    "category": "Frontend Development"
+    "title": "Wireshark",
+    "imageSrc": "skills/wireshark.png",
+    "category": "Cybersecurity Tools"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png",
-    "category": "Frontend Development"
+    "title": "Metasploit",
+    "imageSrc": "skills/metasploit.png",
+    "category": "Cybersecurity Tools"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/django.png",
-    "category": "Backend Development"
+    "title": "Nmap",
+    "imageSrc": "skills/nmap.png",
+    "category": "Cybersecurity Tools"
   },
   {
-    "title": "Spring Boot",
-    "imageSrc": "skills/spring_boot.png",
-    "category": "Backend Development"
+    "title": "Burp Suite",
+    "imageSrc": "skills/burpsuite.png",
+    "category": "Cybersecurity Tools"
   },
   {
-    "title": "AWS",
-    "imageSrc": "skills/aws.png",
+    "title": "Splunk",
+    "imageSrc": "skills/splunk.png",
+    "category": "Security Tools"
+  },
+  {
+    "title": "pwntools",
+    "imageSrc": "skills/pwntools.png",
+    "category": "Cybersecurity Tools"
+  },
+  {
+    "title": "sqlmap",
+    "imageSrc": "skills/sqlmap.png",
+    "category": "Cybersecurity Tools"
+  },
+  {
+    "title": "Hydra",
+    "imageSrc": "skills/hydra.png",
+    "category": "Cybersecurity Tools"
+  },
+  {
+    "title": "Nikto",
+    "imageSrc": "skills/nikto.png",
+    "category": "Cybersecurity Tools"
+  },
+  {
+    "title": "ZAP",
+    "imageSrc": "skills/zap.png",
+    "category": "Cybersecurity Tools"
+  },
+  {
+    "title": "AWS EC2",
+    "imageSrc": "skills/aws_ec2.png",
+    "category": "Cloud Computing"
+  },
+  {
+    "title": "AWS Lambda",
+    "imageSrc": "skills/aws_lambda.png",
+    "category": "Cloud Computing"
+  },
+  {
+    "title": "AWS DynamoDB",
+    "imageSrc": "skills/aws_dynamodb.png",
+    "category": "Cloud Computing"
+  },
+  {
+    "title": "AWS S3",
+    "imageSrc": "skills/aws_s3.png",
     "category": "Cloud Computing"
   },
   {
@@ -60,63 +95,28 @@
     "category": "DevOps"
   },
   {
-    "title": "Docker",
-    "imageSrc": "skills/docker.png",
-    "category": "DevOps"
-  },
-  {
-    "title": "Travis CI",
-    "imageSrc": "skills/travis_ci.png",
-    "category": "DevOps"
-  },
-  {
-    "title": "PostgreSQL",
-    "imageSrc": "skills/postgresql.png",
-    "category": "Database Management"
-  },
-  {
-    "title": "MySQL",
-    "imageSrc": "skills/mysql.png",
-    "category": "Database Management"
-  },
-  {
-    "title": "Supabase",
-    "imageSrc": "skills/supabase.png",
-    "category": "Database Management"
-  },
-  {
-    "title": "Android Development",
-    "imageSrc": "skills/android.png",
-    "category": "Mobile Development"
-  },
-  {
-    "title": "Numpy",
-    "imageSrc": "skills/numpy.png",
-    "category": "Data Science"
-  },
-  {
-    "title": "Pandas",
-    "imageSrc": "skills/pandas.jpeg",
-    "category": "Data Science"
-  },
-  {
-    "title": "Flask",
-    "imageSrc": "skills/flask.png",
-    "category": "Backend Development"
-  },
-  {
-    "title": "Azure DevOps",
-    "imageSrc": "skills/azure_devops.png",
-    "category": "DevOps"
-  },
-  {
-    "title": "Firebase",
-    "imageSrc": "skills/firebase.png",
-    "category": "Database Management"
-  },
-  {
     "title": "GitHub",
     "imageSrc": "skills/github.png",
     "category": "DevOps"
+  },
+  {
+    "title": "Penetration Testing",
+    "imageSrc": "skills/penetration_testing.png",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Application Security",
+    "imageSrc": "skills/application_security.png",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Offensive Security",
+    "imageSrc": "skills/offensive_security.png",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Reverse Engineering and Malware Analysis",
+    "imageSrc": "skills/reverse_engineering.png",
+    "category": "Cybersecurity"
   }
 ]
