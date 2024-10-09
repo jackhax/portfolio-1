@@ -8,7 +8,7 @@ This portfolio showcases my skills, projects, certifications, and experience in 
 
 ## Deployment
 
-The portfolio is deployed and can be accessed [here](https://khamseaffan.netlify.app/). Feel free to explore and navigate through the various sections.
+The portfolio is deployed and can be accessed [here](https://adnanjakati.me/). Feel free to explore and navigate through the various sections.
 
 ## Features
 

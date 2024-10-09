@@ -12,7 +12,7 @@ export default function Navbar() {
 
   return (
     <nav className={styles.navbar}>
-        <a className={styles.title} href='/'>A.K.</a>
+        <a className={styles.title} href='/'>AJ</a>
         <div className={`${styles.menu} `}>
             <img src={menuOpen ? getImageURL("nav/closeIcon.png"):getImageURL("nav/menuIcon.png")} 
             alt="Menu-Button" 
@@ -26,10 +26,10 @@ export default function Navbar() {
                     <a className={styles.icon} href='https://leetcode.com/u/khamseaffan/' target="_blank"><img src={getImageURL("contact/leetcodeIcon.png")} alt="LinkedIn" /></a>
                 </li> */}
                 <li>
-                <a className={styles.icon} href='https://www.linkedin.com/in/affan-khamse/' target='blank'><img src={getImageURL("contact/linkedinIcon.png")} alt="LinkedIn" /></a>
+                <a className={styles.icon} href='https://www.linkedin.com/in/adnanjakati' target='blank'><img src={getImageURL("contact/linkedinIcon.png")} alt="LinkedIn" /></a>
                 </li>
                 <li>
-                <a className={styles.icon} href='https://github.com/khamseaffan' target='blank'><img src={getImageURL("contact/githubIcon.png")} alt="GitHub" /></a>
+                <a className={styles.icon} href='https://github.com/jackhax' target='blank'><img src={getImageURL("contact/githubIcon.png")} alt="GitHub" /></a>
                 </li>
           
            </ul>

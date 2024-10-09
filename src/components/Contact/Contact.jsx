@@ -12,15 +12,15 @@ export default function Contact() {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageURL("contact/emailIcon.png")} alt="Email icon" className={styles.icon} />
-          <a href="mailto:khamseaffan@gmail.com">khamseaffan@gmail.com</a>
+          <a href="mailto:adnan.jakati@nyu.edu">adnan.jakati@nyu.edu</a>
         </li>
         <li className={styles.link}>
           <img src={getImageURL("contact/linkedinIcon.png")} alt="LinkedIn icon" className={styles.icon} />
-          <a href="https://www.linkedin.com/in/affan-khamse/">linkedin.com/in/affan-khamse</a>
+          <a href="https://www.linkedin.com/in/adnanjakati">linkedin.com/in/adnanjakati</a>
         </li>
         <li className={styles.link}>
           <img src={getImageURL("contact/githubIcon.png")} alt="Github icon" className={styles.icon} />
-          <a href="https://github.com/khamseaffan">github.com/khamseaffan</a>
+          <a href="https://github.com/jackhax">github.com/jackhax</a>
         </li>
       </ul>
     </footer>
