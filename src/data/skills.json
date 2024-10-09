@@ -45,23 +45,9 @@
     "category": "Security Tools"
   },
   {
-    "title": "pwntools",
-    "imageSrc": "skills/pwntools.png",
-    "category": "Cybersecurity Tools"
-  },
-  {
-    "title": "sqlmap",
-    "imageSrc": "skills/sqlmap.png",
-    "category": "Cybersecurity Tools"
-  },
   {
     "title": "Hydra",
     "imageSrc": "skills/hydra.png",
-    "category": "Cybersecurity Tools"
-  },
-  {
-    "title": "Nikto",
-    "imageSrc": "skills/nikto.png",
     "category": "Cybersecurity Tools"
   },
   {
@@ -70,18 +56,8 @@
     "category": "Cybersecurity Tools"
   },
   {
-    "title": "AWS EC2",
+    "title": "AWS",
     "imageSrc": "skills/aws_ec2.png",
-    "category": "Cloud Computing"
-  },
-  {
-    "title": "AWS Lambda",
-    "imageSrc": "skills/aws_lambda.png",
-    "category": "Cloud Computing"
-  },
-  {
-    "title": "AWS DynamoDB",
-    "imageSrc": "skills/aws_dynamodb.png",
     "category": "Cloud Computing"
   },
   {
